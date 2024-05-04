@@ -7,7 +7,7 @@ I am **Sunil**, 2nd year Information Science student at UVCE, Bengaluru.
 - 🛠️ Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,git,github,linux,bash,bootstrap,java,firebase,md,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,linux,bash,java,firebase" />
   </a>
 </p>
 
