@@ -5,9 +5,8 @@ I'm **Sunil Hegde**, 3rd-year Information Science student at UVCE, Bengaluru.
 ---
 
 Currently exploring:  
-- Systems programming and Linux internals  
+- Systems programming, Embedded Systems and Linux internals  
 - Networking and Audio streaming
-- Opensource contribution in Real-Time Operating Systems (RTOS)
 ---
 
 Reach out to me:
