@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Sunil Hegde**, 3rd-year Information Science student at UVCE, Bengaluru.
+I'm **Sunil**, 4th year Information Science student at UVCE, Bengaluru.
 
 ---
 
